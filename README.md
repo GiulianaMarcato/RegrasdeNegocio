@@ -7,15 +7,14 @@ Power BI
 # Introdução
 Sempre que estamos com fome e buscamos opções nos aplicativos de comida, aparecem as opções que estamos habituados a pedir. Mesmo que de restaurantes que nunca fomos, isso ocorre porque esses restaurantes têm o mesmo público que o que estamos acostumados a pedir comida. 
 
-Então no caso a seguir temos um aplicativo de comida, que quer identificar o perfil dos clientes para assim fazer as recomendações ais acertivas.
+Então no caso a seguir temos um aplicativo de comida, que quer identificar o perfil dos clientes para assim fazer as recomendações mais acertivas.
 
 Para isso, será necessário responder algumas questões como:
 
 1. Qual idade dos usuários?
 2. Qual o tipo de comida preferida?
-3. Qual o sexo dos usuários?
-4. Os usuários têm preferência por sobremesa? E bebida? São itens necessários no
-aplicativo?
+3. Qual o gênero dos usuários?
+4. Os usuários têm preferência por sobremesa? E bebida? 
 5. Qual horário de maior fluxo?
 
 Buscamos as informações no site:
@@ -25,4 +24,5 @@ O método utilizado no Power BI foi o de extração e tratamento dos dados, e a 
 
 # Arquivos
 Food_service - arquivo .csv da fonte
+
 Regras de Negócios.pbix - arquivo em Power Bi com os dashboards 
